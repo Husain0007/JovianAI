@@ -1,2 +1,2 @@
 # JovianAI
- Course Projects completed on the JovianML Platform
+ Course Projects completed on the JovianAI Platform
