@@ -1,2 +1,0 @@
-Incase Github isn't able to reload the notebook. Please click [here](https://nbviewer.jupyter.org/github/Husain0007/JovianAI/blob/main/ZeroToGANs/CourseProject/course_project.ipynb)
-to view the notebook on <b>[NbViewer](https://nbviewer.jupyter.org/)</b>.
