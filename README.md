@@ -9,8 +9,4 @@ The course instructor [Aaskash N S](https://jovian.ai/aakashns) covers introduct
 The first video lecture of the course can be found on [Youtube](https://www.youtube.com/watch?v=5ioMqzMRFgM&t=1409s&ab_channel=freeCodeCamp.org). <br>
 
 ## Zero to GANs : Course Project 
-<figure class="image">
-  <img src="https://github.com/Husain0007/JovianAI/blob/main/Images/cifar-100-sample.png" alt="sss">
-  <figcaption style="text-align:center;">Image from <a href="https://medium.com/@alitbk/image-classification-in-a-nutshell-5-different-modelling-approaches-in-pytorch-with-cifar100-8f690866b373">Medium</a>
-</figcaption>
-</figure>
+![ ]("https://github.com/Husain0007/JovianAI/blob/main/Images/cifar-100-sample.png")
