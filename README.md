@@ -1,5 +1,5 @@
 # JovianAI
- Course Projects completed on the [JovianAI](https://www.jovian.ai/) Platform.
+ This repository contains projects completed on the [JovianAI](https://www.jovian.ai/) Platform.
  
  ![ ](https://github.com/Husain0007/JovianAI/blob/main/Images/Banner-1.png)
  
