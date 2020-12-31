@@ -9,4 +9,4 @@ The course instructor [Aaskash N S](https://jovian.ai/aakashns) covers introduct
 The first video lecture of the course can be found on [Youtube](https://www.youtube.com/watch?v=5ioMqzMRFgM&t=1409s&ab_channel=freeCodeCamp.org). <br>
 
 ## Zero to GANs : Course Project 
-![ ]("https://github.com/Husain0007/JovianAI/blob/main/Images/cifar-100-sample.png")
+![ ](https://github.com/Husain0007/JovianAI/blob/main/Images/cifar-100-sample.png)
