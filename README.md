@@ -12,6 +12,6 @@ The first video lecture of the course can be found on [Youtube](https://www.yout
 ## Zero to GANs : Course Project 
 <figure class="image">
   <img src="https://github.com/Husain0007/JovianAI/blob/main/Images/cifar-100-sample.png" alt="sss">
-  <figcaption>Image from <a href="https://medium.com/@alitbk/image-classification-in-a-nutshell-5-different-modelling-approaches-in-pytorch-with-cifar100-8f690866b373">Medium</a>
+  <figcaption><center>Image from <a href="https://medium.com/@alitbk/image-classification-in-a-nutshell-5-different-modelling-approaches-in-pytorch-with-cifar100-8f690866b373">Medium</a></center>
 </figcaption>
 </figure>
