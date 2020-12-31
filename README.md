@@ -10,3 +10,7 @@ The first video lecture of the course can be found on [Youtube](https://www.yout
 
 ## Zero to GANs : Course Project 
 ![ ](https://github.com/Husain0007/JovianAI/blob/main/Images/cifar-100-sample.png)
+
+For the course project I trained different ResNet models, and one ResNext model to classify images from the [CIFAR100 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html). The performance measures for the different models have been logged on the Jovian platform. <br> 
+<br>
+![ ](https://github.com/Husain0007/JovianAI/blob/main/Images/Course-Project-Versions.png)
